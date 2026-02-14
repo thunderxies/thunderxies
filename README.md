@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **@thunderxies(insta)**
 
-- ⚡ Fun fact **DO YOU KNOW WHAT IS THE BEST MONTH IN A YEAR? MONTHS CAN'T BE BEST IT'S THE MOMENTS IN LIFE, HAHAH! JOKE🤣**
+- ⚡ Fun fact **chill guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
