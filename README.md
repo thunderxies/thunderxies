@@ -9,10 +9,6 @@ An Android app for GATE Computer Science preparation: syllabus progress, spaced
 revision, flashcards and mock-test trends. The tracking all works offline.
 Built with Flutter and Firebase, plus an AI tutor on Gemini.
 
-**[The 180](https://thunderxies.github.io/the180/)** · [source](https://github.com/thunderxies/the180)<br>
-A 180-day discipline tracker. A single-page PWA with no backend and no build
-step, and everything you log stays in your own browser.
-
 ### 🛠️ What I work with
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
