@@ -10,6 +10,9 @@
 
 ### 🚀 What I've shipped
 
+**[prasun.is-a.dev](https://prasun.is-a.dev/)**, *my portfolio and blog*<br>
+A Spring Boot 3.5 / Java 21 app with Spring Security, Spring Data JPA and PostgreSQL, shipped as a Docker image on Render. Posts and projects are managed from an admin panel with login rate limiting.
+
 **[GATE CSE Tracker](https://play.google.com/store/apps/details?id=com.prasun.gatecsetracker)**, *live on Google Play*<br>
 An app for GATE Computer Science preparation: syllabus progress, spaced-repetition revision, PYQ tracking and mock-test trends, working offline.
 Built with Flutter and Firebase (Google Sign-In, cloud backup), with an AI tutor on Gemini via Firebase AI Logic.
@@ -24,7 +27,9 @@ A 180-day discipline tracker: an offline-first PWA in plain JavaScript.
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-0052CC?style=flat)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
 ![Oracle ATG](https://img.shields.io/badge/Oracle_ATG-F80000?style=flat&logo=oracle&logoColor=white)
 
 **Testing & tools:**
@@ -43,5 +48,6 @@ A 180-day discipline tracker: an offline-first PWA in plain JavaScript.
 
 ### 📫 Find me
 
+[![Portfolio](https://img.shields.io/badge/prasun.is--a.dev-1F3E93?style=flat&logo=googlechrome&logoColor=white)](https://prasun.is-a.dev/)
 [![Email](https://img.shields.io/badge/prasun.3104@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:prasun.3104@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/thunderxies/)
