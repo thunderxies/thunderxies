@@ -17,8 +17,7 @@ A Spring Boot 3.5 / Java 21 app with Spring Security, Spring Data JPA and Postgr
 An app for GATE Computer Science preparation: syllabus progress, spaced-repetition revision, PYQ tracking and mock-test trends, working offline.
 Built with Flutter and Firebase (Google Sign-In, cloud backup), with an AI tutor on Gemini via Firebase AI Logic.
 
-**[The 180](https://thunderxies.github.io/the180/)**<br>
-A 180-day discipline tracker: an offline-first PWA in plain JavaScript.
+
 
 ### 🛠️ Tech I work with
 
