@@ -45,8 +45,4 @@ Built with Flutter and Firebase (Google Sign-In, cloud backup), with an AI tutor
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 
-### 📫 Find me
 
-[![Portfolio](https://img.shields.io/badge/prasun.is--a.dev-1F3E93?style=flat&logo=googlechrome&logoColor=white)](https://prasun.is-a.dev/)
-[![Email](https://img.shields.io/badge/prasun.3104@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:prasun.3104@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/thunderxies/)
